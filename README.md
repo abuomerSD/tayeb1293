@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tayeb1293
 - 👀 I’m interested in JavaFx Desktop Applications Development
-- 🌱 I’m currently learning Hibernate and Spring Framework
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on JavaFx Apps
 - 📫 How to reach me : tayeb1293@yahoo.com
 
